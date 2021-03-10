@@ -1,0 +1,19 @@
+
+
+<resources>
+    <string name="app_name">Тривиадор</string>
+    <string name="game_over">Поражение</string>
+    <string name="try_again">Попробовать снова?</string>
+    <string name="android_trivia">Тривиадор</string>
+    <string name="about_text">Интеллектуальная онлайн-игра с элементами стратегии, созданная в 2002 году венгерским разработчиком Атиллой Бихари./n/n Данные взяты из википедии и не привязаны к данному приложению.</string>
+    <string name="rules_text">Выберите ответ из предложенных вариантов.Если ответ правильный переходите к следющему вопросу.\n\n Если вы ответили неправильно, ваша игра заканчивается! Вы можете вернуться к титульному экрану, «назад» из игрового экрана, и это также завершит вашу игру. </string>
+    <string name="rules">Правила</string>
+    <string name="about">Об игре</string>
+    <string name="trivia_hint">Trivia Hint</string>
+    <string name="title_android_trivia_question">Android Trivia (%1$d/%2$d)</string>
+    <string name="title_about_trivia">Про Тривиадор</string>
+    <string name="title_trivia_rules">Правила Тривиадора</string>
+    <string name="submit_button">Выбрать</string>
+    <string name="congratulations">Поздравляю!</string>
+
+</resources>
